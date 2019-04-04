@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1525016963 source:/home/jmsgfhr/Documentos/FilaAlunoMenu/fila.c
+	"fila.h"
+
+1525016570 /home/jmsgfhr/Documentos/FilaAlunoMenu/fila.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1525017768 source:/home/jmsgfhr/Documentos/FilaAlunoMenu/main.c
+	"fila.h"
+
