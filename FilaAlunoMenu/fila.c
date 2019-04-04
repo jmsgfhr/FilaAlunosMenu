@@ -20,7 +20,6 @@ int finish(){
         Node *aux;
         aux=primeiro;
         primeiro = primeiro->prox;
-        printf("vou liberar %s\n", aux->a.nome);
         free(aux);
     }
     return 0;
